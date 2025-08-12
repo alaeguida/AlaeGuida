@@ -4,7 +4,7 @@
 
 - 🐍 Married to **Python**
 
-- 🔭 **DevOps** Enthusiast
+- 📈 **Quant Finance** Enthusiast
 
 - 📚 Currently learning advanced **C++** concepts
 
