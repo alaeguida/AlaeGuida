@@ -1,13 +1,10 @@
 <h3 align="left">About me:</h3>
 
-- 👨‍🎓 Computer Science Student
 
 - 🐍 Married to **Python**
 
-- 📈 **Quant Finance** Enthusiast
-
-- 📚 Currently learning advanced **C++** concepts
-
+- 📈 **Quant Finance & DevOps** Enthusiast
+  
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
