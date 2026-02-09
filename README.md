@@ -3,7 +3,7 @@
 
 - 🐍 Married to **Python**
 
-- 📈 **Quant Finance & DevOps** Enthusiast
+- 📈 **Cybersecurity & DevOps** Enthusiast
   
 
 <h3 align="left">Find me on:</h3>
